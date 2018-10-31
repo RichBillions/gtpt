@@ -1,0 +1,23 @@
+{
+    "apps": [{
+        "name": "gtpt", //名称
+        "script": "./bin/www", //程序入库
+        "cwd": "./", //根目录
+        "watch": [
+		"bin",
+		"common",
+		"config",
+    "src",
+    "dist",
+		"views"
+	], //需要监控的目录
+    "max_memory_restart": "1024M",
+        "instances": "max",
+        "exec_mode": "cluster",
+        "env": {
+            NODE_ENV: "production",
+            PORT: "80"
+        },
+        "log_date_format": "YYYY-MM-DD HH:mm Z" //日期格式
+    }]
+}
