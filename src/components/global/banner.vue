@@ -11,7 +11,7 @@
                           <div class="slide animation-2d banner-swiper-container">
                               <div class="swiper-wrapper" style="height:550px;">
                                   <div class="item item-1 swiper-slide" v-for="(banner, index) in bannerList" v-bind:class="{'item-1':index==0}" :key="index" v-bind:style="{'display':'inline-block','height':'550px'}" >
-                                      <div class="slide-content" v-bind:style="{'background': 'url('+banner.url+') 100% 100% no-repeat','background-size':'contain','width':'1264px','height':'550px'}">
+                                      <div class="slide-content" v-bind:style="{'background': 'url('+banner.url+') 100% 100% no-repeat','background-size':'cover','width':'1560px','height':'550px'}">
                                       </div>
                                   </div>
                               </div>

@@ -3,7 +3,7 @@
       <div class="layout-bg">
           <div class="left">
               <div class="left-bg">
-                  <div class="mod mod-color mod-top01">
+                  <div class="mod mod-color mod-top01" style="line-height:0;">
                       <div class="mod-bg mod-bg-top">
                           <div class="mod-title mod-title-top">
                               <div class="title-bg title-bg-top"></div>
