@@ -59,7 +59,7 @@
                                                 <ul class="contactus-tab contactus-tab-email">
                                                     <li class="left">E-mail:</li>
                                                     <li class="right">
-                                                        <a href="mailto:elve@dlmetalwork.com" target="_blank" rel="nofollow">elve@dlmetalwork.com</a>
+                                                        <a href="mailto:elva@dlmetalwork.com" target="_blank" rel="nofollow">elva@dlmetalwork.com</a>
                                                     </li>
                                                 </ul>
                                                 <ul class="contactus-tab contactus-tab-street">

@@ -39,7 +39,7 @@
                                   <div class="contact-box">
                                       <dl class="contact-address">
                                           <dt>Email:</dt>
-                                          <dd>elve@dlmetalwork.com</dd>
+                                          <dd>elva@dlmetalwork.com</dd>
                                       </dl>
                                   </div>
                                   <div class="contact-box">

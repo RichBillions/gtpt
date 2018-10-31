@@ -63,7 +63,7 @@
                       <div class="mod-bg mod-bg-othercontent">
                           <div class="mod-content mod-content-othercontent">
                               <div class="content-bg content-bg-othercontent">
-                                  <span style="margin-top:60px;display:block;width:200px;">Email: elve@dlmetalwork.com</span>
+                                  <span style="margin-top:60px;display:block;width:200px;">Email: elva@dlmetalwork.com</span>
                               </div>
                           </div>
                       </div>
