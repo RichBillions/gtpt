@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="layout layout-sys1 layout-bj2" layout-guid="7" layout-no-guid="455dc196-23a5-4dc9-9030-f6137bd1228a">
+    <div class="layout layout-sys1 layout-bj2" style="max-width: 1600px;" layout-guid="7" layout-no-guid="455dc196-23a5-4dc9-9030-f6137bd1228a">
         <div class="layout-bg">
             <div class="mod mod-color mod-othercontent01">
                 <div class="mod-bg mod-bg-othercontent">
