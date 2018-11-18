@@ -13,8 +13,8 @@
                                   <div class="content-bg content-bg-top">
                                       <div class="sign-board-bg">
                                           <div class="top-logo">
-                                              <a  href="/" title="Dalian Hongsheng machine Co.,Ltd" rel="nofollow">
-                                                  <img style="padding-top:5px;" src="../../assets/images/text.png" width="300" height="113" alt="Dalian Hongsheng machine Co.,Ltd"/>
+                                              <a  href="/" title="DALIAN JIEYUAN TRADE CO.,LTD" rel="nofollow">
+                                                  <img style="padding-top:5px;padding-left:45px;" src="../../assets/images/logo.png" width="155" height="115" alt="DALIAN JIEYUAN TRADE CO.,LTD"/>
                                               </a>
                                           </div>
                                           <div class="clear"></div>
@@ -46,25 +46,15 @@
                                   <div class="sx">
                                       <img src="../../assets/images/line.png" alt=""/>
                                   </div>
-                                  <div class="dw">Product quality is the life of enterprise.</div>
-                                  <div class="tel">Tel:  0086-13795100256</div>
+                                  <div class="dw">DALIAN JIEYUAN TRADE CO.,LTD<br><div style="text-align:center;">大连捷源贸易有限公司</div></div>
+                                  <div style="float: right;">
+                                    <div class="tel" style="float: initial;">Tel:  0086-13795100256</div>
+                                    <div class="tel" style="float: initial;padding-top:0;">Email:  elva@dlmetalwork.com</div>
+                                  </div>
                               </div>
                           </div>
                           <div class="mod-buttom mod-bottom-tophtml">
                               <div class="bottom-bg bottom-bg-tophtml"></div>
-                          </div>
-                      </div>
-                  </div>
-              </div>
-          </div>
-          <div class="right">
-              <div class="right-bg">
-                  <div class="mod mod-color mod-othercontent01">
-                      <div class="mod-bg mod-bg-othercontent">
-                          <div class="mod-content mod-content-othercontent">
-                              <div class="content-bg content-bg-othercontent">
-                                  <span style="margin-top:60px;display:block;width:200px;">Email: elva@dlmetalwork.com</span>
-                              </div>
                           </div>
                       </div>
                   </div>

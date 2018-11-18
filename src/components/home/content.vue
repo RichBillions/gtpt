@@ -10,7 +10,11 @@
                     <div class="mod-content mod-content-othercontent">
                         <div class="content-bg content-bg-othercontent">
                             <h1>Welcome To Dalian Jieyuan trade Co.,Ltd</h1>
-                            <p>Company mission: high quality, high standards, high efficiency</p>
+                            <div class="circle-wrap">
+                                <div class="circle"></div>
+                                <div class="circle"></div>
+                            </div>
+                            <p style="color:#c40514;font-size:18px;font-weight:bold;">HIGH QUALITY  &nbsp;&nbsp; HIGH STANDARDS &nbsp;&nbsp; HIGH EFFICIENCY</p>
                         </div>
                     </div>
                     <div class="mod-bottom mod-bottom-othercontent">

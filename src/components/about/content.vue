@@ -40,29 +40,9 @@
     </div>
     <div class="layout layout-sys2 layout-acontent1" layout-guid="8" layout-no-guid="465931bf-a91a-4d59-aca3-e75fb5633071">
         <div class="layout-bg">
-            <div class="left">
+
+            <div class="left" style="width:710px;">
                 <div class="left-bg">
-                    <div class="mod mod-color mod-othercontent01">
-                        <div class="mod-bg mod-bg-othercontent">
-                            <div class="mod-title mod-title-othercontent">
-                                <div class="title-bg title-bg-othercontent"></div>
-                            </div>
-                            <div class="mod-content mod-content-othercontent">
-                                <div class="content-bg content-bg-othercontent">
-                                    <div class="pic">
-                                        <img src="../../assets/images/about/workshop.jpg" alt="" width="100%" height="auto"/>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="mod-bottom mod-bottom-othercontent">
-                                <div class="bottom-bg bottom-bg-othercontent"></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="right">
-                <div class="right-bg">
                     <div class="mod mod-color mod-othercontent01">
                         <div class="mod-bg mod-bg-othercontent">
                             <div class="mod-title mod-title-othercontent">
@@ -75,6 +55,9 @@
                                         <p>We have 15-year experiences in all kinds of  spindles, Shaft sleeve, deep hole working , precision parts for machine tools, Non-standard Alloying Tools and Cutter Bar ,casting, forging, stamping, welding products , related products and mechanical part.</p>
                                         <p>Through years of efforts, products exported to North America, Europe , with proffesional product knowledge and excenllent product quality, Jieyuan company gradually become the partner of many machinery manufacturing enterprises and equipment suppliers.</p>
                                     </div>
+                                    <img src="../../assets/images/about/workshop.jpg" alt="" width="32%" height="180px" style="float:right;margin:2px;"/>
+                                    <img src="../../assets/images/about/product.jpg" alt="" width="32%" height="180px" style="float:right;margin:2px;"/>
+                                    <img src="../../assets/images/about/qc.jpg" alt="" width="32%" height="180px" style="float:right;margin:2px;"/>
                                 </div>
                             </div>
                             <div class="mod-bottom mod-bottom-othercontent">
@@ -84,6 +67,29 @@
                     </div>
                 </div>
             </div>
+
+            <div class="right" style="width:460px;">
+                <div class="right-bg">
+                    <div class="mod mod-color mod-othercontent01">
+                        <div class="mod-bg mod-bg-othercontent">
+                            <div class="mod-title mod-title-othercontent">
+                                <div class="title-bg title-bg-othercontent"></div>
+                            </div>
+                            <div class="mod-content mod-content-othercontent">
+                                <div class="content-bg content-bg-othercontent">
+                                    <div class="pic">
+                                        <img src="../../assets/images/about/factory.jpg" alt="" width="auto" height="100%"/>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="mod-bottom mod-bottom-othercontent">
+                                <div class="bottom-bg bottom-bg-othercontent"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
         </div>
     </div>
   </div>

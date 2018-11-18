@@ -3826,7 +3826,7 @@ clear: both;
 margin: 0px;
 padding: 0px;
 font-size: 20px;
-font-weight: normal;
+font-weight: bold;
 display: inline;
 }
 
@@ -5027,7 +5027,7 @@ overflow: visible;
 }
 
 .layout-logo .left {
-width: 310px;
+width: 250px;
 }
 
 .layout-logo .centerleft {
@@ -5045,6 +5045,8 @@ width: 88px;
 .layout-nav {
 position: relative;
 border-top: 1px solid #b5b5b5;
+background: url(../../assets/images/topbg.jpg) no-repeat;
+background-size: cover;
 }
 
 .layout-nav .left {
@@ -6757,15 +6759,22 @@ cursor: pointer;
 .mod-nav01 .nav-tabs {
 height: 50px;
 overflow: hidden;
+display: flex;
+display: -webkit-flex;
+justify-content: space-between;
+flex-wrap: wrap;
+align-items: center;
 }
 
 .mod-nav01 .nav-tabs .nav-tab {
-float: left;
+display: inline-block;
+text-align: center;
+flex: 1;
 }
 
 .mod-nav01 .nav-tabs .nav-tab-link {
 font-size: 17px;
-color: #494228;
+color: #fff;
 line-height: 50px;
 text-transform: capitalize;
 display: block;
@@ -8927,6 +8936,21 @@ line-height: 29px;
 display: block;
 text-align: center;
 }
+
+.layout-title1 .mod-othercontent01 .circle-wrap {
+    height: 10px;
+    text-align: center;
+    padding-bottom: 5px;
+}
+.layout-title1 .mod-othercontent01 .circle-wrap .circle {
+    width: 10px;
+    display: inline-block;
+    height: 100%;
+    background: #c40514;
+    border-radius: 50%;
+    margin: 0 80px;
+}
+
 
 .layout-title1 .mod-othercontent01 p {
 font-size: 14px;
@@ -13006,7 +13030,7 @@ color: #1b1b1b;
 line-height: 40px;
 font-weight: 600;
 float: left;
-padding: 47px 10px 0;
+padding: 30px 29px 0;
 }
 
 .mod-tophtml01 .tel {
@@ -13014,7 +13038,7 @@ float: right;
 font-size: 14px;
 color: #333333;
 line-height: 26px;
-padding: 55px 20px 0;
+padding: 45px 20px 0;
 }
 
 .main-ar .mod-tophtml01 .sx {

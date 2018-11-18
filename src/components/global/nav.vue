@@ -34,16 +34,16 @@
                                       <div class="nav-dropdown-content">
                                           <ul class="dropdown-tabs">
                                               <li class="dropdown-tab dropdown-tab-first">
-                                                  <a class="dropdown-tab-link" href="/products.html?type=0">Machining Parts</a>
+                                                  <a class="dropdown-tab-link" href="/products.html?type=0">Spindle and Shaft Sleeve</a>
                                               </li>
                                               <li class="dropdown-tab dropdown-tab-2">
-                                                  <a class="dropdown-tab-link" href="/products.html?type=1">Cutter</a>
+                                                  <a class="dropdown-tab-link" href="/products.html?type=1">Machining Parts</a>
                                               </li>
                                               <li class="dropdown-tab dropdown-tab-3">
-                                                  <a class="dropdown-tab-link" href="/products.html?type=2">Deep Hole Processing</a>
+                                                  <a class="dropdown-tab-link" href="/products.html?type=2">Cutter</a>
                                               </li>
                                               <li class="dropdown-tab dropdown-tab-4">
-                                                  <a class="dropdown-tab-link" href="/products.html?type=3">Shaft and Shaft Sleeve</a>
+                                                  <a class="dropdown-tab-link" href="/products.html?type=3">Deep Hole Processing</a>
                                               </li>
                                           </ul>
                                       </div>

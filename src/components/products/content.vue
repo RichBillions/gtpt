@@ -44,27 +44,28 @@
                                     <div class="categories-box categories-child show-type-tree">
                                         <ul class="categories-tabs">
                                             <li class="categories-tab categories-tab-first categories-tab-child" @click="clickTab(0);">
+                                                <a class="categories-tab-link" href="javascript:void(0);" title="Spindle and Shaft Sleeve">
+                                                    <span class="text">Spindle and Shaft Sleeve</span>
+                                                    <i class="nocaret"></i>
+                                                </a>
+                                               
+                                            </li>
+                                            <li class="categories-tab categories-tab-2" @click="clickTab(1);">
                                                 <a class="categories-tab-link" href="javascript:void(0);" title="Machining Parts">
                                                     <span class="text">Machining Parts</span>
                                                     <i class="caret"></i>
                                                 </a>
                                             </li>
-                                            <li class="categories-tab categories-tab-2" @click="clickTab(1);">
+                                            <li class="categories-tab categories-tab-3 categories-tab-child" @click="clickTab(2);">
                                                 <a class="categories-tab-link" href="javascript:void(0);" title="Cutter">
                                                     <span class="text">Cutter</span>
                                                     <i class="nocaret"></i>
                                                 </a>
                                             </li>
-                                            <li class="categories-tab categories-tab-3 categories-tab-child" @click="clickTab(2);">
+                                            <li class="categories-tab categories-tab-4" @click="clickTab(3);">
                                                 <a class="categories-tab-link" href="javascript:void(0);" title="Deep Hole Processing">
                                                     <span class="text">Deep Hole Processing</span>
                                                     <i class="caret"></i>
-                                                </a>
-                                            </li>
-                                            <li class="categories-tab categories-tab-4" @click="clickTab(3);">
-                                                <a class="categories-tab-link" href="javascript:void(0);" title="Shaft and Shaft Sleeve">
-                                                    <span class="text">Shaft and Shaft Sleeve</span>
-                                                    <i class="nocaret"></i>
                                                 </a>
                                             </li>
                                         </ul>
@@ -79,7 +80,7 @@
                 </div>
             </div>
 
-            <div class="right machining" v-show="curIndex==0">
+            <div class="right machining" v-show="curIndex==1">
                 <div class="right-bg">
                     <div class="mod mod-color mod-productlist01">
                         <div class="mod-bg mod-bg-productlist">
@@ -113,7 +114,7 @@
                 </div>
             </div>
 
-            <div class="right cutter" v-show="curIndex==1">
+            <div class="right cutter" v-show="curIndex==2">
                 <div class="right-bg">
                     <div class="mod mod-color mod-productlist01">
                         <div class="mod-bg mod-bg-productlist">
@@ -147,7 +148,7 @@
                 </div>
             </div>
 
-            <div class="right deep" v-show="curIndex==2">
+            <div class="right deep" v-show="curIndex==3">
                 <div class="right-bg">
                     <div class="mod mod-color mod-productlist01">
                         <div class="mod-bg mod-bg-productlist">
@@ -181,7 +182,7 @@
                 </div>
             </div>
 
-            <div class="right shaft" v-show="curIndex==3">
+            <div class="right shaft" v-show="curIndex==0">
                 <div class="right-bg">
                     <div class="mod mod-color mod-productlist01">
                         <div class="mod-bg mod-bg-productlist">
@@ -251,16 +252,17 @@ export default {
         this.curIndex = ord;
         switch (ord) {
           case '0':
-            this.curName = 'Machining Parts';
+            this.curName = 'Spindle and Shaft Sleeve';
             break;
           case '1':
-            this.curName = 'Cutter';
+
+            this.curName = 'Machining Parts';
             break;
           case '2':
-            this.curName = 'Deep Hole Processing';
+            this.curName = 'Cutter';
             break;
           case '3':
-            this.curName = 'Shaft and Shaft Sleeve';
+            this.curName = 'Deep Hole Processing';
             break;
           default:
             break;

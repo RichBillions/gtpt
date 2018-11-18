@@ -30,7 +30,7 @@
                         <div class="mod-bg mod-bg-contactus">
                             <div class="mod-title mod-title-contactus">
                                 <div class="title-bg title-bg-contactus">
-                                    <div class="title-left title-left-contactus">Contact Us</div>
+                                    <div class="title-left title-left-contactus" style="font-weight:bold;color:#000;">Contact Us</div>
                                     <div class="title-right title-right-contactus"></div>
                                 </div>
                             </div>
@@ -43,28 +43,28 @@
                                             </div>
                                             <div class="contactus-tabs">
                                                 <ul class="contactus-tab contactus-tab-first contactus-tab-phone">
-                                                    <li class="left">Mobile:</li>
+                                                    <li class="left" style="color:#000;">Mobile:</li>
                                                     <li class="right">
-                                                        <span class="name">0086-13795100256</span>
+                                                        <span class="name" style="color:#000;font-weight: bold;">0086-13795100256</span>
                                                     </li>
                                                 </ul>
                                                 <ul class="contactus-tab contactus-tab-name">
-                                                    <li class="left">Wechat:</li>
-                                                    <li class="right">luckyeyu</li>
+                                                    <li class="left" style="color:#000;">Wechat:</li>
+                                                    <li class="right" style="color:#000;font-weight: bold;">luckyeyu</li>
                                                 </ul>
                                                 <ul class="contactus-tab contactus-tab-name">
-                                                    <li class="left">Skype:</li>
-                                                    <li class="right">hhjeyu</li>
+                                                    <li class="left" style="color:#000;">Skype:</li>
+                                                    <li class="right" style="color:#000;font-weight: bold;">hhjeyu</li>
                                                 </ul>
                                                 <ul class="contactus-tab contactus-tab-email">
-                                                    <li class="left">E-mail:</li>
+                                                    <li class="left" style="color:#000;">E-mail:</li>
                                                     <li class="right">
-                                                        <a href="mailto:elva@dlmetalwork.com" target="_blank" rel="nofollow">elva@dlmetalwork.com</a>
+                                                        <a href="mailto:elva@dlmetalwork.com" target="_blank" rel="nofollow" style="color:#000;font-weight: bold;">elva@dlmetalwork.com</a>
                                                     </li>
                                                 </ul>
                                                 <ul class="contactus-tab contactus-tab-street">
-                                                    <li class="left">Address:</li>
-                                                    <li class="right">No.51-1. Agricultural street, GanJingzi Region, Dalian</li>
+                                                    <li class="left" style="color:#000;">Address:</li>
+                                                    <li class="right" style="color:#000;font-weight: bold;">No.51-1. Agricultural street, GanJingzi Region, Dalian</li>
                                                 </ul>
                                             </div>
                                         </div>
